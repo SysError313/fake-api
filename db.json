@@ -1,0 +1,8 @@
+{
+  "filters": [
+   {"name": "heh", "type": 1},
+   {"name": "huh", "type": 1},
+   {"name": "hih", "type": 2},
+   {"name": "hah", "type": 1}
+  ]
+}
